@@ -7,7 +7,7 @@
                 
                 <div class="card">
                     <div class="card-header text-center">
-                        <h1><?php session_start(); echo $_SESSION['name']; ?></h1>
+                        <h1><?php echo isset($_SESSION['name'])?$_SESSION['name']:""; ?></h1>
                     </div>
                     <div class="card-body">
 

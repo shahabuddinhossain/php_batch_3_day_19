@@ -19,20 +19,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec26a17c-729d-4df3-9abe-840a2f5edc80" name="Default Changelist" comment="" />
+    <list default="true" id="ec26a17c-729d-4df3-9abe-840a2f5edc80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php_batch_3_day_19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action.php" beforeDir="false" afterPath="$PROJECT_DIR$/action.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="24rB9aCZ4Y2FUUwSlJZFo2cAKoF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644378674272</updated>
       <workItem from="1644378675459" duration="11423000" />
+      <workItem from="1644463243103" duration="8961000" />
     </task>
     <servers />
   </component>
@@ -75,15 +97,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="420" y="87" key="NewPhpClassDialog" timestamp="1644387034642">
+    <state x="420" y="87" key="NewPhpClassDialog" timestamp="1644465009064">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="420" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1644387034642" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1644389375246">
+    <state x="420" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1644465009064" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1644463471494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1644389375246" />
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1644463471494" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1644465105156">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1644465105156" />
   </component>
 </project>
