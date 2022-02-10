@@ -22,8 +22,8 @@
         <div class="navbar-nav">
             <li><a href="action.php?pages=home" class="nav-link">Home</a></li>
             <li><a href="action.php?pages=series" class="nav-link">Series</a></li>
+            <li><a href="action.php?pages=all-data" class="nav-link">All Data</a></li>
             <li><a href="action.php?pages=register" class="nav-link">Registration</a></li>
-            <li><a href="test.php" class="nav-link">Test</a></li>
             <li><a href="action.php?pages=login" class="nav-link">login</a></li>
             <li class="dropdown" >
                 <a href="" class="nav-link dropdown-toggle" data-toggle="dropdown"> <?php echo isset($_SESSION['name'])?$_SESSION['name']:"user"; ?></a>

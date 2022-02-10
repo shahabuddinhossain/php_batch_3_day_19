@@ -6,9 +6,10 @@
             <div class="col-md-8 mx-auto">
                 <div class="card">
                     <div class="card-header">
-                        <h1>Sum of Series</h1>
+                        <h1 class="text-center text-monospace">Registration Form</h1>
                     </div>
                     <div class="card-body">
+                        <h4 class="text-center text-success my-2"><?php echo isset($message)?$message:''; ?></h4>
                         <form action="action.php" method="post">
                             <div class="form-group row">    <!--row-->
                                 <label for="" class="col-md-3 col-form-label">Full Name</label>
@@ -32,17 +33,8 @@
                             </div>    <!--row-->
 
 
-                            <div class="form-group row">    <!--Row-->
-                                <label for="" class="col-md-3 col-form-label">Subject</label>
-                                <div class="col-md-9">
-                                    <label for=""><input class="" type="checkbox" name="subject[]" value="Bengali">Bengali</label>
-                                    <label for=""><input class="" type="checkbox" name="subject[]" value="English">English</label>
-                                    <label for=""><input class="" type="checkbox" name="subject[]" value="Math">Math</label>
-                                    <label for=""><input class="" type="checkbox" name="subject[]" value="Physics">Physics</label>
-                                    <label for=""><input class="" type="checkbox" name="subject[]" value="Chemistry">Chemistry</label>
-                                    <label for=""><input class="" type="checkbox" name="subject[]" value="Biology">Biology</label>
-                                </div>
-                            </div>      <!--Row-->
+
+
                             <div class="form-group row">    <!--Row-->
                                 <label for="" class="col-md-3 col-form-label"></label>
                                 <div class="col-md-9">
